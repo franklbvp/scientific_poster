@@ -12,10 +12,10 @@
 beginner
 
 ## Documents related to the Scientific Poster course
-[slides](https://github.com/franklbvp/latex_intro/blob/main/docs/Binder-latex-2019_2020.pdf)
+[slides](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster_infosession_2016-p4.pdf)
 
 ## Video Material
 
-|Presentation | PowerPoint Narrative | Screencast Demo LaTeX |
+|Presentation | PowerPoint Narrative | Screencast Demo |
 |------------ | -------------------- | -----------------------|
 | | | |
