@@ -14,7 +14,7 @@
 beginner
 
 ## Material related to the Scientific Poster course
-* [slides](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster_infosession_2016-p4.pdf)
+
 * [short guide](https://github.com/franklbvp/scientific_poster/blob/main/docs/2020-08-17-AcademicPostersAnthology.pdf)
 
 ## Video Material
@@ -22,6 +22,15 @@ beginner
 |Presentation | PowerPoint Narrative | Screencast Demo |
 |------------ | -------------------- | -----------------------|
 |[introduction](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-1-intro-en-narrative.pdf) | | |
+|[planning the poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-2-planning-en-narrative.pdf) | | |
+|[the elements](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-3-elements-en-narrative.pdf) | | |
+|[poster in powerpoint: setup](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-4-ppt-en-pt1-setup-narrative.pdf) | | |
+|[poster in powerpoint: text, etc.](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-4-ppt-en-pt2-text_image_table-narrative.pdf) | | |
+|[poster in powerpoint: more](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-4-ppt-en-pt3-more-narrative.pdf) | | |
+|[printing at ICTS](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-5-printing-en-narrative.pdf) | | |
+|[presenting the poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-6-presentation-narrative.pdf) | | |
+|[SOS poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-7-SOSposter-en-narrative.pdf) | | |
+|[minor design tips](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-8-design_tips-en-narrative.pdf) | | |
 
 Check also
 * [How to create the ULTIMATE research poster with User Experience Design (Mike Morrison)](https://youtu.be/SYk29tnxASs)
