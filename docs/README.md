@@ -30,7 +30,7 @@ beginner
 |[printing at ICTS](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-5-printing-en-narrative.pdf) | | |
 |[presenting the poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-6-presentation-narrative.pdf) | | |
 |[SOS poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-7-SOSposter-en-narrative.pdf) | | |
-|[minor design tips](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-8-design_tips-en-narrative.pdf) | | |
+|[minor design tips](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-8-design_tips-en-narrative.pdf) |[13:56](https://kuleuven.mediaspace.kaltura.com/media/ScientificPoster-2020-8-design_tips-en-narrative/1_egjikz04) | - |
 
 Check also
 * [How to create the ULTIMATE research poster with User Experience Design (Mike Morrison)](https://youtu.be/SYk29tnxASs)
