@@ -21,7 +21,7 @@ beginner
 
 ## Slides and Video Material
 
-|SLides | PowerPoint Narrative | Screencast Demo |
+|Slides | PowerPoint Narrative | Screencast Demo |
 |------------ | -------------------- | -----------------------|
 |[introduction](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-1-intro-en-narrative.pdf) |[20:07](https://kuleuven.mediaspace.kaltura.com/media/ScientificPoster-2020-1-intro-en-narrative/1_sc3mtlwo) | - |
 |[planning the poster](https://github.com/franklbvp/scientific_poster/blob/main/docs/ScientificPoster-2020-2-planning-en-narrative.pdf) |[39:51](https://kuleuven.mediaspace.kaltura.com/media/ScientificPoster-2020-2-planning-en-narrative/1_bu4s510v) | - |
