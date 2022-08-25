@@ -15,7 +15,7 @@ beginner
 
 ## Material related to the Scientific Poster course
 
-* [short guide](https://github.com/franklbvp/scientific_poster/blob/main/docs/2020-08-17-AcademicPostersAnthology.pdf)
+* [short guide](https://github.com/franklbvp/scientific_poster/blob/main/docs/AcademicPostersAnthology.pdf)
 * [handson examples](https://github.com/franklbvp/scientific_poster/blob/main/docs/handson.zip)
 * [University of Oxford Research poster handbook](https://skills.it.ox.ac.uk/files/itlcppr001notespostersimprovingpdf)
 
